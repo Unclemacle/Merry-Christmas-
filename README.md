@@ -1,2 +1,0 @@
-# happybirthday
-Bless li wanbing
