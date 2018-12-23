@@ -1,6 +1,6 @@
 ## How to use
 # Just click [here](https://hduxiao.github.io/happybirthday/) to view.
-
+## 请用电脑戳开
 ## one HTML5 Birthday gift
 ## Instr
 This is a page used to celebrate my friend's birthday, using the idea and frame from HackerZhou. 
