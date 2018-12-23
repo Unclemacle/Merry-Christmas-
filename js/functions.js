@@ -10,7 +10,7 @@ $(function () {
 	var offsetY = $loveHeart.height() / 2 - 55;
     $garden = $("#garden");
     gardenCanvas = $garden[0];
-	gardenCanvas.width = $("").width();
+	gardenCanvas.width = $("#loveHeart").width();
     gardenCanvas.height = $("#loveHeart").height()
     gardenCtx = gardenCanvas.getContext("2d");
     gardenCtx.globalCompositeOperation = "lighter";
