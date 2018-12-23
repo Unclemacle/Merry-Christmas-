@@ -15,7 +15,7 @@ Just place the code anywhere you want and make some small changes in `index.html
 Fork this repo and modify the code. I know that the code is ugly. Please forgive me.. 
 
 ## Copyright
-* Rearrange & remade by MY Sun
+* Rearrange & remade by hduxiao
 * Using frame from HackerZhou
 * Firework made by Jackrugile
 * Flower made by FlowerPower
