@@ -9,3 +9,4 @@ All useful imformation has been centeralized in `_config.yml`.
 * Flower made by FlowerPower
 
 # Just click [here](https://hduxiao.github.io/happybirthday/) to view.
+##（ps:可以手动放烟花哦）
