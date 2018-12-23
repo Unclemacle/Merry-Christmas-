@@ -1,6 +1,5 @@
 ## How to use
-### to one who received this
-#Just click [here](https://hduxiao.github.io/happybirthday/) to view.
+# Just click [here](https://hduxiao.github.io/happybirthday/) to view.
 
 ## one HTML5 Birthday gift
 ## Instr
