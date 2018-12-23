@@ -10,3 +10,4 @@ All useful imformation has been centeralized in `_config.yml`.
 
 # Just click [here](https://hduxiao.github.io/happybirthday/) to view.
 ##（ps:可以手动放烟花哦）
+网不好请不要点开
